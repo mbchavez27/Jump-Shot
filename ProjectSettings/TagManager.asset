@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - assaultRifle
+  - pistol
+  - playerpistol
+  - playerassaultRifle
+  - sniper
+  - playersniper
+  - playerOne
+  - playerTwo
+  - players
+  - bulletOne
+  - bulletTwo
+  - rocket
+  - playerRocket
+  - floors
+  - splashDamage
+  - missile
+  - lava
+  - fuel
+  - platformfire
+  - punchOne
+  - punchTwo
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - ground
+  - weapons
+  - left
+  - right
+  - postProcess
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
